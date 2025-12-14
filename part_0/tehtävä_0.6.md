@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant browser
     participant server
@@ -17,3 +18,4 @@ sequenceDiagram
     Note left of server: Palvelin vastaa: {"message": "note created"}
     
     Note right of browser: Sivu ei lataudu uudelleen - muistiinpano on jo näkyvissä
+```
